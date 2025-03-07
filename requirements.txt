@@ -1,0 +1,14 @@
+openai
+langchain
+langchain_openai
+chromadb
+docx2txt
+pypdf
+streamlit
+tiktoken
+google-generativeai
+langchain-google-genai
+langchain-community
+transformers tensorflow
+pinecone
+sentence_transformers
